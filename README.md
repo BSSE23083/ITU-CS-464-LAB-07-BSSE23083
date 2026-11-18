@@ -13,6 +13,10 @@ I looked at Forza Horizon (big tiles in the main menu) and Need for Speed Underg
 
 Every screen below has an annotated screenshot (magenta boxes and notes) and a greyscale copy. The plain colour screenshots are also in `Docs/screenshots`.
 
+## Video
+
+Walkthrough of all the screens: https://drive.google.com/file/d/1DzCDVSnX26dUlAgft9wtkZ_8iZlubYBG/view?usp=sharing
+
 ## How to run
 
 1. Unity Hub > Add > Add project from disk, select this folder.
