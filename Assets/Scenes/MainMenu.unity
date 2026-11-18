@@ -78326,7 +78326,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Course instructor and lab TAs
+  m_text: Course instructor and lab TA
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ca1533b843367a44abc3802d76ae0f3b, type: 2}
   m_sharedMaterial: {fileID: 70741004466012816, guid: ca1533b843367a44abc3802d76ae0f3b, type: 2}

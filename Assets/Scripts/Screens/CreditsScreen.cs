@@ -21,7 +21,7 @@ public class CreditsScreen : UIScreen
         new[] { "ENGINE & TOOLS", "Unity 6000.3  ·  uGUI  ·  TextMesh Pro  ·  Input System" },
         new[] { "INSPIRED BY", "Forza Horizon series  -  Playground Games", "Need for Speed series  -  Criterion Games / EA", "(layout ideas only, no assets used)" },
         new[] { "COURSE", "CS-464 Game Development  ·  Lab 07", "Information Technology University, Lahore" },
-        new[] { "SPECIAL THANKS", "Course instructor and lab TAs", "Friends who play-tested the menus" },
+        new[] { "SPECIAL THANKS", "Course instructor and lab TA", "Friends who play-tested the menus" },
     };
 
     public override void Build()
